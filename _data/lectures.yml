@@ -1,12 +1,5 @@
 - title: "Spring 2023"
 
-- date: 2/4
-  speaker: Yuanjie Ren
-  institute: MIT
-  title: >
-    <strong>Condensed matter system and its application in topological quantum computation</strong>
-  slides: 
-
 - date: 2/11
   speaker: Yu Xie
   institute: Harvard U.
@@ -14,6 +7,13 @@
     <strong>Modeling atomic interactions from density functional theory to Gaussian processes</strong>
   slides:
   
+- date: 2/4
+  speaker: Yuanjie Ren
+  institute: MIT
+  title: >
+    <strong>Condensed matter system and its application in topological quantum computation</strong>
+  slides: 
+
   
 - title: "Fall 2022"
 

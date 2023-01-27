@@ -1,13 +1,6 @@
 Active:
 
-    - name: Hongyin Liu
-      url: 
-      email: hongyin@mit.edu
-      institute: MIT
-      image: members/hongyin.jpg
-      field: atom-ph, hep-ex
-
-    - name: Miaochen Jin
+   - name: Miaochen Jin
       url: https://miaochenjin.GitHub.io
       email: miaochenjin@g.harvard.edu
       institute: Harvard University
@@ -28,6 +21,13 @@ Active:
       image: members/yiluo.jpg
       field: gr-qc, cond-mat
 
+    - name: Hongyin Liu
+      url: 
+      email: hongyin@mit.edu
+      institute: MIT
+      image: members/hongyin.jpg
+      field: atom-ph, hep-ex
+ 
     - name: Yidi Qi
       url: https://inspirehep.net/authors/1835911
       email: y.qi@northeastern.edu

@@ -29,9 +29,11 @@ nav_order: 1
         {% if lecture.speaker %}
         Speaker: <i>{{ lecture.speaker }}</i>
         {% endif %}
+        <!--
         {% if lecture.institute %}
         ({{ lecture.institute}})
         {% endif %}
+        -->
     </td>
     <td>
          {% if lecture.slides %}

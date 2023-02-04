@@ -5,7 +5,7 @@ inline: true
 ---
 
 - First seminar talk of 2023 is here!
-  - **Condensed matter system and its application in topological quantum computation**  
+  - **Quantum Double Model and Quantum Computation**  
   - by *Yuanjie Ren*
 - You may check the tentative schedule for Spring 2023 [here](https://docs.google.com/spreadsheets/d/1JMghsoa93FFSqsloE4z_SP1rIs2ugggSCiP-hldbLe8/edit?usp=sharing).
 - If you would like to give a talk, please contact us.

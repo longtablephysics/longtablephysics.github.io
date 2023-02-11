@@ -11,6 +11,6 @@ social: true  # includes social icons at the bottom of the page
 
 ***
 
-We are a group of aspiring young Chinese physicists in the greater Boston area, including undergraduates, graduate students and post-docs from Boston College, Boston University, Brandeis, Harvard, MIT, Northeastern and Tufts. We gather for seminar and other fun activities frequently to talk about physics, learn from each other, create ideas and sparkles, or to just enjoy a game of Werewolf.
+We are a community of motivated young physicists of Chinese origin in the greater Boston area. Our group comprises of undergraduate, graduate students, and post-doctoral fellows from Boston College, Boston University, Brandeis, Harvard, MIT, Northeastern, and Tufts University. We convene regularly to engage in seminars and other enjoyable activities, aimed at sharing knowledge, exchanging ideas, fostering innovation and creativity, and building social connections. Our gatherings also offer opportunities for leisure and recreation, such as playing games like Werewolf.
 
 ***

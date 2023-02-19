@@ -1,11 +1,25 @@
 - title: "Spring 2023"
 
+- date: 2/25
+  speaker: Zhengyan Shi 
+  institute: MIT 
+  title: >
+    <strong>How do electrons die in a high temperature superconductor?</strong>
+  slides: 
+
+- date: 2/18
+  speaker: Junyi Cheng 
+  institute: Harvard U.
+  title: >
+    <strong>Optimal transport for collider phenomenology</strong>
+  slides:
+
 - date: 2/11
   speaker: Yu Xie
   institute: Harvard U.
   title: >
     <strong>Modeling atomic interactions from density functional theory to Gaussian processes</strong>
-  slides:
+  slides: https://drive.google.com/file/d/1-fhkS8J_PrYcqkTO2skXT1OsZ0N8VEhf/view
   
 - date: 2/4
   speaker: Yuanjie Ren

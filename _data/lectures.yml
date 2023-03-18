@@ -1,5 +1,12 @@
 - title: "Spring 2023"
 
+- date: 3/18
+  speaker: Dianzhuo Wang 
+  institute: Harvard U. 
+  title: >
+    <strong>Using inverse Ising model to tackle protein evolution</strong>
+  slides: 
+
 - date: 2/25
   speaker: Zhengyan Shi 
   institute: MIT 

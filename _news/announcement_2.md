@@ -5,8 +5,8 @@ inline: true
 ---
 
 - Upcoming talk:
-  - **Using inverse Ising model to tackle protein evolution**  
-  - by *Dianzhuo Wang*
+  - **How to show magic with random unitaries and random matrix product states**  
+  - by *Liyuan Chen*
 - You may check the tentative schedule for Spring 2023 [here](https://docs.google.com/spreadsheets/d/1JMghsoa93FFSqsloE4z_SP1rIs2ugggSCiP-hldbLe8/edit?usp=sharing).
 - If you would like to give a talk, please contact us.
 

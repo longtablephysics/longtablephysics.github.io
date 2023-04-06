@@ -1,32 +1,40 @@
 - title: "Spring 2023"
 
+
+- date: 4/1
+  speaker: Boxi Song
+  institute: Boston College 
+  title: >
+    <strong>Synchrony</strong>
+  slides:
+
 - date: 3/25
   speaker: Liyuan Chen
   institute: Harvard U. 
   title: >
     <strong>How to show magic with random unitaries and random matrix product states</strong>
-  slides: 
+  slides: https://docs.google.com/presentation/d/1J6Ra-grWtcLKiNRd03THavt3p2ngmuBt/edit?usp=share_link&ouid=114841517592444797329&rtpof=true&sd=true
 
 - date: 3/18
   speaker: Dianzhuo Wang 
   institute: Harvard U. 
   title: >
     <strong>Using inverse Ising model to tackle protein evolution</strong>
-  slides: 
+  slides: https://drive.google.com/file/d/1wo7I-IvisC1Tih4YHsEIY-7zHumdLnNA/view?usp=share_link 
 
 - date: 2/25
   speaker: Zhengyan Shi 
   institute: MIT 
   title: >
     <strong>How do electrons die in a high temperature superconductor?</strong>
-  slides: 
+  slides: https://drive.google.com/file/d/1UwhrI1zGhEoj_d-NJmwSUeoKCTZKhT6V/view?usp=share_link 
 
 - date: 2/18
   speaker: Junyi Cheng 
   institute: Harvard U.
   title: >
     <strong>Optimal transport for collider phenomenology</strong>
-  slides:
+  slides: https://drive.google.com/file/d/1sNJbds9M6SKRGqmjQenlLmVjqH79koKj/view?usp=share_link
 
 - date: 2/11
   speaker: Yu Xie

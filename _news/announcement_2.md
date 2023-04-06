@@ -5,7 +5,6 @@ inline: true
 ---
 
 - Upcoming talk:
-  #- **How to show magic with random unitaries and random matrix product states**  
   - **Seeing mysterious states through the eyes of scanning single electron transistor**
   - by *Zhuozhen Cai*
 - You may check the tentative schedule for Spring 2023 [here](https://docs.google.com/spreadsheets/d/1JMghsoa93FFSqsloE4z_SP1rIs2ugggSCiP-hldbLe8/edit?usp=sharing).

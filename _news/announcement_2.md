@@ -7,6 +7,7 @@ inline: true
 - Upcoming talk:
   - **Programmable patchy particle model with state change for designing robust structures**
   - by *Qian-Ze Zhu*
+  - 18 Hammond St, Cambridge
 - You may check the tentative schedule for Spring 2023 [here](https://docs.google.com/spreadsheets/d/1JMghsoa93FFSqsloE4z_SP1rIs2ugggSCiP-hldbLe8/edit?usp=sharing).
 - If you would like to give a talk, please contact us.
 

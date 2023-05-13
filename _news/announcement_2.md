@@ -1,12 +1,12 @@
 ---
 layout: post
-date: 2023-4-22 19:00:00
+date: 2023-5-13 19:00:00
 inline: true
 ---
 
 - Upcoming talk:
-  - **Programmable patchy particle model with state change for designing robust structures**
-  - by *Qian-Ze Zhu*
+  - **Bilayer physics with ultracold dipolar atoms on a 50 nm scale**
+  - by *Li Du*
   - 18 Hammond St, Cambridge
 - You may check the tentative schedule for Spring 2023 [here](https://docs.google.com/spreadsheets/d/1JMghsoa93FFSqsloE4z_SP1rIs2ugggSCiP-hldbLe8/edit?usp=sharing).
 - If you would like to give a talk, please contact us.

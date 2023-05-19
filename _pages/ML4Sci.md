@@ -7,7 +7,7 @@ nav_order: 1
 ---
 {% assign prev_date = 0 %}
 
-{% for item in site.data.lectures %}
+{% for item in site.data.ML4Sci_cat %}
 {% if item.date %}
 {% assign lecture = item %}
 {% assign event_type = "upcoming" %}

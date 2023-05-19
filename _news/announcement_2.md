@@ -1,12 +1,12 @@
 ---
 layout: post
-date: 2023-5-13 19:00:00
+date: 2023-5-27 19:00:00
 inline: true
 ---
 
 - Upcoming talk:
-  - **Bilayer physics with ultracold dipolar atoms on a 50 nm scale**
-  - by *Li Du*
+  - **Intersection of string, quantum gravity, and quantum information theory**
+  - by *Ning Bao*, Assistant Professor of Physics and Mathematics, Northeastern University
   - 18 Hammond St, Cambridge
 - You may check the tentative schedule for Spring 2023 [here](https://docs.google.com/spreadsheets/d/1JMghsoa93FFSqsloE4z_SP1rIs2ugggSCiP-hldbLe8/edit?usp=sharing).
 - If you would like to give a talk, please contact us.

@@ -5,7 +5,7 @@ inline: true
 ---
 
 - Upcoming talk:
-  - **Intersection of string, quantum gravity, and quantum information theory**
+  - **Quantum Entanglement in Gravity**
   - by *Ning Bao*, Assistant Professor of Physics and Mathematics, Northeastern University
   - 18 Hammond St, Cambridge
 - You may check the tentative schedule for Spring 2023 [here](https://docs.google.com/spreadsheets/d/1JMghsoa93FFSqsloE4z_SP1rIs2ugggSCiP-hldbLe8/edit?usp=sharing).

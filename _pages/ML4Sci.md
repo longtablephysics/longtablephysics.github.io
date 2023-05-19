@@ -3,11 +3,11 @@ layout: schedule
 permalink: /ML4Sci_talks/
 title: ML4Sci talks
 nav: true
-nav_order: 1
+nav_order: 2
 ---
 {% assign prev_date = 0 %}
 
-{% for item in site.data.ML4Sci_cat %}
+{% for item in site.data.ML4Sci %}
 {% if item.date %}
 {% assign lecture = item %}
 {% assign event_type = "upcoming" %}

@@ -4,7 +4,7 @@ title: contacts
 permalink: /contacts/
 description: 
 nav: true
-nav_order: 3
+nav_order: 4
 ---
 <div class="members clearfix">
   {% for member in site.data.contacts.Active %}

@@ -4,7 +4,7 @@ title: social events
 permalink: /social/
 description: 
 nav: true
-nav_order: 2
+nav_order: 3
 display_categories: [2022]
 horizontal: false
 ---

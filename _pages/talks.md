@@ -1,7 +1,7 @@
 ---
 layout: schedule
 permalink: /talks/
-title: Physics
+title: talks
 nav: true
 nav_order: 1
 ---

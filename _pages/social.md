@@ -1,6 +1,6 @@
 ---
 layout: page
-title: social events
+title: social
 permalink: /social/
 description: 
 nav: true

@@ -4,9 +4,13 @@ date: 2023-5-27 19:00:00
 inline: true
 ---
 
-- Upcoming talk:
-  - **Quantum Entanglement in Gravity**
-  - by *Ning Bao*, Assistant Professor of Physics and Mathematics, Northeastern University
+- Upcoming ML4Sci seminar:
+  - **ML4Sci: Reinforcement Learning (6/1)**
+  - by *Tiancheng Yu*, MIT
+  - 29 Oxford St, Cambridge
+- Upcoming Physics seminar:
+  - **Artificial Intelligence and Physics (6/3)**
+  - by *Ziming Liu*, MIT
   - 18 Hammond St, Cambridge
 - You may check the tentative schedule for Spring 2023 [here](https://docs.google.com/spreadsheets/d/1JMghsoa93FFSqsloE4z_SP1rIs2ugggSCiP-hldbLe8/edit?usp=sharing).
 - If you would like to give a talk, please contact us.

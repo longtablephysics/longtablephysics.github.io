@@ -1,7 +1,7 @@
 ---
 layout: schedule
 permalink: /ML4Sci_talks/
-title: ML4Sci talks
+title: ML4Sci
 nav: true
 nav_order: 2
 ---

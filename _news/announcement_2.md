@@ -9,6 +9,8 @@ inline: true
   - by *Tiancheng Yu*, MIT
   - 29 Oxford St, Cambridge
 
+date: 2023-6-1 19:00:00
+
 - Upcoming Physics seminar:
   - **Artificial Intelligence and Physics (6/3)**
   - by *Ziming Liu*, MIT

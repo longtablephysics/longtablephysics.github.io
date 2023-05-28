@@ -5,7 +5,7 @@ inline: true
 ---
 
 - Upcoming ML4Sci seminar:
-  - **ML4Sci: Reinforcement Learning (6/1)**
+  - **Near-optimal Learning in Sequential Games: from Go to Poker (6/1)**
   - by *Tiancheng Yu*, MIT
   - 29 Oxford St, Cambridge
 

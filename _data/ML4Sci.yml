@@ -1,5 +1,12 @@
 - title: "Spring 2023"
 
+- date: 6/1
+  speaker: Tiancheng Yu
+  institute: MIT
+  title: >
+    <strong>Near-optimal Learning in Sequential Games: from Go to Poker</strong>
+  slides: https://drive.google.com/file/d/1fvds3FTDp9jenomd0uVCMlEdrJzsYLOZ/view?usp=share_link
+
 - date: 5/18
   speaker: Jinzheng Li
   institute: Northeastern U.

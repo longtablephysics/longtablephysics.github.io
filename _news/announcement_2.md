@@ -7,7 +7,7 @@ inline: true
 - Upcoming ML4Sci WG:
   - **Near-optimal Learning in Sequential Games: from Go to Poker (6/1)**
   - by *Tiancheng Yu*, MIT
-  - 29 Oxford St, Cambridge
+  - 29 Oxford St, Pierce Hall 213 Brooks Room, Cambridge
   - 6:30-7:15 PM: food and social
   - 7:15 PM onward: talk
 

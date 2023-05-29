@@ -10,7 +10,7 @@ inline: true
   - 29 Oxford St, Cambridge
 
 - Upcoming Physics seminar:
-  - **Artificial Intelligence and Physics (6/3)**
+  - **How can human scientists survive in the time of AI? (6/3)**
   - by *Ziming Liu*, MIT
   - 18 Hammond St, Cambridge
 

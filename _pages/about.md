@@ -18,4 +18,5 @@ You may check the tentative schedule for Summer 2023 [here](https://docs.google.
 Aside from the general topic seminar, we organize working groups (WGs) that focus on specific topics and fields. You can find more information about the individual WGs and schedules here:
 
 [ML4Sci WG](https://longtablephysics.github.io/ML4Sci_talks/) (Machine Learning for Science)
+
 ***

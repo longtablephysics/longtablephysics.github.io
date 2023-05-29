@@ -8,8 +8,8 @@ inline: true
   - **Near-optimal Learning in Sequential Games: from Go to Poker (6/1)**
   - by *Tiancheng Yu*, MIT
   - 29 Oxford St, Pierce Hall 213 Brooks Room, Cambridge
-  - 6:30-7:15 PM: food and social
-  - 7:15 PM onward: talk
+  - 6:45-7:30 PM: food and social
+  - 7:30 PM onward: talk
 
 - Upcoming general topic seminar:
   - **How can human scientists survive in the time of AI? (6/3)**

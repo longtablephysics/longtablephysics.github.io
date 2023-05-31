@@ -12,7 +12,7 @@ inline: true
   - 7:30 PM onward: talk
 
 - Upcoming general topic seminar:
-  - **How can human scientists survive in the time of AI? (6/3)**
+  - **How can human scientists survive in the time of AI? (6/10)**
   - by *Ziming Liu*, MIT
   - 18 Hammond St, Cambridge
   - 7:00-7:30 PM: food and social

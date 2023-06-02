@@ -4,12 +4,12 @@ date: 2023-6-1 19:00:00
 inline: true
 ---
 
-- Upcoming ML4Sci WG:
+<!-- - Upcoming ML4Sci WG:
   - **Near-optimal Learning in Sequential Games: from Go to Poker (6/1)**
   - by *Tiancheng Yu*, MIT
   - 29 Oxford St, Pierce Hall 213 Brooks Room, Cambridge
   - 6:45-7:30 PM: food and social
-  - 7:30 PM onward: talk
+  - 7:30 PM onward: talk -->
 
 - Upcoming general topic seminar:
   - **How can human scientists survive in the time of AI? (6/10)**

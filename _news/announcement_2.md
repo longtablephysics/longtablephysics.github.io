@@ -8,8 +8,7 @@ inline: true
   - **Recent Advances in Explainable Clustering (6/22)**
   - by *Chengyuan Deng*
   - 29 Oxford St, Pierce Hall 213 Brooks Room, Cambridge
-  - 7:00-7:30 PM: food and social
-  - 7:30 PM onward: talk
+  - 7:30 PM: talk begins
 
 - Upcoming general topic seminar:
   - **Measurement Induced Entanglement Phase Transition (6/24)**

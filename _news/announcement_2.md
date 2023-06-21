@@ -14,7 +14,7 @@ inline: true
   - **Measurement Induced Entanglement Phase Transition (6/24)**
   - by *Xiao Chen*, Assistant Professor of Physics, Boston College
   - 18 Hammond St, Cambridge
-  - 6:30-7:00 PM: food and social
+  - 6:00-7:00 PM: food and social
   - 7:00 PM onward: talk
 
 <!--

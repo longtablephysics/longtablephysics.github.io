@@ -1,11 +1,18 @@
 - title: "Summer 2023"
 
+- date: 7/29
+  speaker: Feng Qian
+  institute: Tufts U.
+  title: >
+    <strong>Quantum information</strong>
+  slides: 
+
 - date: 7/8
   speaker: Kaifeng Bu
   institute: Harvard U.
   title: >
     <strong>Magic from a quantum convolutional approach</strong>
-  slides: 
+  slides: https://drive.google.com/file/d/1wJhMTd2Yykn5HyBlI7ROK9f-NHYyLEzW/view?usp=share_link
 
 - date: 6/24
   speaker: Xiao Chen

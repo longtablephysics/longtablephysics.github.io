@@ -11,7 +11,7 @@ inline: true
   - 7:30 PM: talk begins -->
 
 - Upcoming general topic seminar:
-  - **Title: Quantum Computing (10/7)**
+  - **Title: Ultracold molecules and magnetic control of chemical reactions (10/7)**
   - by *Hongyin Liu*
   - 18 Hammond St, Cambridge
   - 7:00-7:30 PM: food and social

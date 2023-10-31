@@ -1,6 +1,8 @@
 ---
 layout: about
-title: <b>L</b>ong <b>T<b>able <b>P<b>hysics @ <b>B<b>oston, a seminar for mandarin speaking young physicists in the greater Boston area
+title: <b>B<b>oston <b>A<b>rea <b>Y<b>oung <b>P<b>hysicists <b>C<b>hinese <b>S<b>eminar @ <b>L<b>ong <b>T<b>able
+
+#<b>L</b>ong <b>T<b>able <b>P<b>hysics @ <b>B<b>oston, a seminar for mandarin speaking young physicists in the greater Boston area
 # <b>B</b>oston <b>A</b>rea <b>Ch</b>inese <br> <b>Y</b>oung <b>P</b>hysicists <b>S</b>eminar
 permalink: /
 subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.

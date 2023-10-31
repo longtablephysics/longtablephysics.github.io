@@ -1,5 +1,19 @@
 - title: "Fall 2023"
 
+- date: 11/4
+  speaker: Prof. Hsin-Yuan Huang (Robert)
+  institute: MIT
+  title: >
+    <strong>Local minima in quantum systems</strong>
+  slides: 
+
+- date: 10/14
+  speaker: Wanli Cheng
+  institute: Brandeis U.  
+  title: >
+    <strong>The Crawling Chaos: Random Geometry approaches to Quantum Gravity</strong>
+  slides: 
+
 - date: 10/7
   speaker: Hongyin Liu
   institute: MIT

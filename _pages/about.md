@@ -1,6 +1,6 @@
 ---
 layout: about
-title: <b>B</b>oston <b>A</b>rea <b>Y</b>oung <b>P</b>hysicists <b>S</b>eminar @ Long Table in Mandarin
+title: <b>B</b>oston <b>A</b>rea <b>Y</b>oung <b>P</b>hysicists' <b>M</b>andarin <b>S</b>eminar @ Long Table
 
 #<b>L</b>ong <b>T<b>able <b>P<b>hysics @ <b>B<b>oston, a seminar for mandarin speaking young physicists in the greater Boston area
 # <b>B</b>oston <b>A</b>rea <b>Ch</b>inese <br> <b>Y</b>oung <b>P</b>hysicists <b>S</b>eminar

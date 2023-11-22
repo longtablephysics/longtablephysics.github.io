@@ -1,15 +1,22 @@
 - title: "Fall 2023"
 
+- date: 11/18
+  speaker: Hanchen Liu
+  institute: Boston College
+  title: >
+    <strong>Quantum Entanglement Phase Transitions and Computational Complexity: Insights from Ising Models</strong>
+  slides: https://drive.google.com/file/d/1rCvJx-63mj7hw7DPG7U95NcaTeqCa2d6/view?usp=drive_link
+
 - date: 11/4
   speaker: Prof. Hsin-Yuan Huang (Robert)
   institute: MIT
   title: >
     <strong>Local minima in quantum systems</strong>
-  slides: 
+  slides: https://drive.google.com/file/d/1LlQ8Wk5BOk6dxLC2NBUw-2ndHTD2pcTO/view?usp=drive_link
 
 - date: 10/14
   speaker: Wanli Cheng
-  institute: Brandeis U.  
+  institute: Boston U.  
   title: >
     <strong>The Crawling Chaos: Random Geometry approaches to Quantum Gravity</strong>
   slides: 
@@ -19,14 +26,14 @@
   institute: MIT
   title: >
     <strong>Ultracold molecules and magnetic control of chemical reactions</strong>
-  slides: 
+  slides: https://drive.google.com/file/d/1LlQ8Wk5BOk6dxLC2NBUw-2ndHTD2pcTO/view?usp=drive_link
 
 - date: 9/23
   speaker: Jingxuan Ding
   institute: Harvard U.
   title: >
     <strong>What is 10^10 times smaller than us? Probing atomic motions through neutron scattering</strong>
-  slides: 
+  slides: https://docs.google.com/presentation/d/1-UcYJZXUZjGNjPiD_6uunxR4tOgmnBAw/edit?usp=sharing&ouid=114841517592444797329&rtpof=true&sd=true
 
 - title: "Summer 2023"
 

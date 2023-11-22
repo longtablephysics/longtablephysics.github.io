@@ -12,7 +12,7 @@ inline: true
 
 - Upcoming general topic seminar:
   - **Title: Quantum Entanglement Phase Transitions and Computational Complexity: Insights from Ising Models (11/18)**
-  - by *Prof. Hsin-Yuan Huang (Robert)*
+  - by *Hanchen Liu*
   - 18 Hammond St, Cambridge
   - 7:00-7:30 PM: food and social
   - 7:30 PM onward: talk begins

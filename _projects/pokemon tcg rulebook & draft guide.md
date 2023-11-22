@@ -7,7 +7,7 @@ importance: 1
 category: 2023
 ---
 
-# Pokemon TCG Rulebook & Cube Draft Guide
+# 宝可梦卡牌规则书 & 轮抽指南
 ## 轮抽规则
 1. 轮抽开始时，每人根据总玩家数从 Cube 中随机抽取一定张数的牌组成卡包，具体配置如下:
 
@@ -32,10 +32,10 @@ category: 2023
 - 一般推荐的宝可梦/训练师/能量卡构成比例大概为1:2:1，根据具体牌组进行调整
 - 在本 Cube 的设计风格中，火、电、格斗系更偏向直接输出，水系更偏向溅射伤害（Damage to Benched Pokémon），
 草系和超能系更偏控制
-- Cube 全部牌表见：https://cubekoga.net/?access=82579b91-a77b-4eb5-8956-acb4cbe2d6b5
+- Cube 全部牌表见：<https://cubekoga.net/?access=82579b91-a77b-4eb5-8956-acb4cbe2d6b5>
 
 ## 对战规则
-<img src="assets/img/photos/pokemon_tcg/table.jpg">
+<img src="/assets/img/photos/pokemon_tcg/table.jpg">
 ### 准备阶段
 1. 和对方握手
 2. 投硬币猜正反（或者骰子猜单双），胜者决定先后攻顺序

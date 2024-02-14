@@ -15,11 +15,4 @@ inline: true
   - by *Kaifeng Bu*
   - Palfrey House, 18 Hammond St, Cambridge, 7:00 PM
   - Abstract: Quantum computation is expected to outperform classical computation, yet understanding the origins of this advantage remains a fundamental challenge. In this talk, I will focus on the quantum feature, called magic, which can support the quantum advantage. I will introduce a quantum convolution to test and measure magic. I will also introduce a coarse-graining map, called the “convolution group”, to perform the classification of many-body states. Finally, I will discuss the possible future directions in this framework.
-<!--
-layout: post
-date: 2022-12-3 19:00:00
-inline: true
 
-- Invited talk by Professor Norman Yao!
-  - *Introduction to Time Crystals*
-  - Please RSVP [here](https://forms.gle/PE3utKMcF4kwtHLt5) -->

@@ -11,12 +11,10 @@ inline: true
   - 7:30 PM: talk begins -->
 
 - Upcoming general topic seminar:
-  - **Title: Emergent spacetime from quantum information (12/09)**
-  - by *Prof. Xiaoliang Qi*
-  - 2-147 MIT, 11:00 AM
-  - Abstract: 
-    - I plan to give an overview of the field of holographic duality which relates quantum gravity, i.e. the study of spacetime, to quantum information. I will mention some recent developments in this direction, possibly including some of my own works.
-
+  - **Title: Magic in the Frontiers of Quantum Science (2/17)**
+  - by *Kaifeng Bu*
+  - Palfrey House, 18 Hammond St, Cambridge, 7:00 PM
+  - Abstract: Quantum computation is expected to outperform classical computation, yet understanding the origins of this advantage remains a fundamental challenge. In this talk, I will focus on the quantum feature, called magic, which can support the quantum advantage. I will introduce a quantum convolution to test and measure magic. I will also introduce a coarse-graining map, called the “convolution group”, to perform the classification of many-body states. Finally, I will discuss the possible future directions in this framework.
 <!--
 layout: post
 date: 2022-12-3 19:00:00

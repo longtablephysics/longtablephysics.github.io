@@ -1,6 +1,6 @@
 ---
 layout: post
-# date: 2023-6-1 19:00:00
+date: 2024-2-24 19:00:00
 inline: true
 ---
 
@@ -11,8 +11,9 @@ inline: true
   - 7:30 PM: talk begins -->
 
 - Upcoming general topic seminar:
-  - **Title: Magic in the Frontiers of Quantum Science (2/17)**
-  - by *Kaifeng Bu*
+  - **Title: Predicting Arbitrary State Properties from Single Hamiltonian Quench Dynamics (2/24)**
+  - by *Zhenhuan Liu*
   - Palfrey House, 18 Hammond St, Cambridge, 7:00 PM
-  - Abstract: Quantum computation is expected to outperform classical computation, yet understanding the origins of this advantage remains a fundamental challenge. In this talk, I will focus on the quantum feature, called magic, which can support the quantum advantage. I will introduce a quantum convolution to test and measure magic. I will also introduce a coarse-graining map, called the “convolution group”, to perform the classification of many-body states. Finally, I will discuss the possible future directions in this framework.
+  - Abstract: analog 量子模拟一般用于量子多体问题的研究，是量子计算的一种重要路径。一般来讲，analog量子模拟的平台只能做一些特定的量子演化，也就是说系统的哈密顿量形式非常受限，例如光晶格，里德堡系统都有自己特有的哈密顿量形式。这样受限的量子演化能力对于模拟一些特定的量子多体问题是足够的，但是会对量子测量带来极大的影响。具体来说，任何一个量子信息处理任务，包括量子计算，在任务的最后总是需要获得系统的某一种信息，例如关联函数，保真度，以及纠缠熵。这些物理量的测量需要我们有执行某一种具体的量子演化的能力，而 analog 量子系统却并不擅长执行我们所希望的量子演化。因此现在大多数的 analog 量子模拟任务最终只能测量粒子数关联等非常少的物理量。
+
 

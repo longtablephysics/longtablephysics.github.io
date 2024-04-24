@@ -1,18 +1,18 @@
 - title: "Spring 2024"
 
-- date: 4/5
-  speaker: Miaochen Jin
-  institute: Harvard
-  title: >
-    <strong>The Quest Towards Neutrino Physics at Ultra-High Energies</strong>
-  slides:
-
 - date: 4/20
   speaker: Carolyn Zhang
   institue: MIT
   title: >
     <strong>Nonabelian anyons and fractional quantum Hall families</strong>
   slides: https://drive.google.com/file/d/1Gw91HAge57YXtfpjioEZ2iGL-QnESKjq/view?usp=sharing
+
+- date: 4/5
+  speaker: Miaochen Jin
+  institute: Harvard
+  title: >
+    <strong>The Quest Towards Neutrino Physics at Ultra-High Energies</strong>
+  slides:
 
 - date: 3/22
   speaker: Prof. Koji Hashimoto & Daichi Takeda
